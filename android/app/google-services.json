@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "113479378014",
+    "firebase_url": "https://workitoproject.firebaseio.com",
+    "project_id": "workitoproject",
+    "storage_bucket": "workitoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113479378014:android:afe118e7fa4f417723c0cf",
+        "android_client_info": {
+          "package_name": "com.workitoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113479378014-5l6em6qi68oapni4rcec6lm3pv8ojdki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.workitoproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "113479378014-8041a057asdfcf336rsei5m60rcuqooi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAaaOge1Se7IcpY9p5Nb2Dl3GYtSsk8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113479378014-8041a057asdfcf336rsei5m60rcuqooi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
